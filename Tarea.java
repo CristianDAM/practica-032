@@ -26,4 +26,9 @@ public class Tarea
         tareaAcabada = true;
     }
 
+    public String getDescripcion(){
+       
+        return descripcion;
+    }
+   
 }

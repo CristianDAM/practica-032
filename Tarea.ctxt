@@ -5,4 +5,6 @@ comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tarea\r\n
 comment1.params=
 comment1.target=void\ tareaCompletada()
 comment1.text=\r\n\ Metodo\ que\ permite\ marcar\ una\ tarea\ como\ completada\r\n
-numComments=2
+comment2.params=
+comment2.target=java.lang.String\ getDescripcion()
+numComments=3
